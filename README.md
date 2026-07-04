@@ -21,8 +21,10 @@ Perform revenue analysis across states and categories.
 -Average order value(AOV):466.34
 ## Key Insights 
 -Identified top-performing categories by revenue.
--
--Analyzed sales by outlet type and outlet
+-Credit card is the most prefered payment method.
+-Sales show clear seasonal trends across months/quarters.
+-Delivery delays mostly on high selling products due to more orders pressure.
+-Customer distribution is uneven across regions.
 ## Files
 -shopnest.capstone.pbix-Power BI dashboard file.
 -Dashboard screenshots
