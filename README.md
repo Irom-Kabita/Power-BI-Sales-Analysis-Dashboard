@@ -20,11 +20,15 @@ Perform revenue analysis across states and categories.
 -Active Customers:14K+
 -Average order value(AOV):466.34
 ## Key Insights 
--Identified top-performing categories by revenue.
--Credit card is the most prefered payment method.
--Sales show clear seasonal trends across months/quarters.
--Delivery delays mostly on high selling products due to more orders pressure.
--Customer distribution is uneven across regions.
+-Total sales reached approximately 12.43M across 99K+ orders.
+-Credit card is the most preferred payment method among customers.
+-Average order value(AOV) remained relatively stable throughout the analysis period.
+-States such as SP, RJ, and MG generated the highest sales, indicating strong regional performance.
+-Some states experienced lower sales along with most delay orders, highlighting potential operational challenges.
+-Customer distribution is uneven across regions, suggesting opportunities for market expansion.
+-Sales exhibited clear seasonal trends across different months and quarters.
+-Certain product categories recorded high order volumes but lower average review scores, indicating areas for product and service improvement.
+-Product categories with the highest order volumes also experienced the highest number of delivery delays.
 ## Files
 -shopnest.capstone.pbix-Power BI dashboard file.
 -Dashboard screenshots
