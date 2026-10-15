@@ -15,9 +15,9 @@ Perform revenue analysis across states and categories.
 - DAX Measures 
 - Data Modeling
 ## KPIs Tracked
-- Net Profit:40.52M
+- Total Sales:12.43M
 - Total Orders:99441
-- Active Customers:14K+
+- Active Customers:99441
 - Average order value(AOV):124.98
 ## Key Insights 
 - Total sales reached approximately 12.43M across 99K+ orders.
@@ -31,5 +31,5 @@ Perform revenue analysis across states and categories.
 - Product categories with the highest order volumes also experienced the highest number of delivery delays.
 ## Files
 - shopnest.capstone.pbix-Power BI dashboard file.
-- Dashboard screenshots
+- Dashboard screenshots: Category Analysis, Monthly Analysis, Sales Overview, and State Analysis.
 
