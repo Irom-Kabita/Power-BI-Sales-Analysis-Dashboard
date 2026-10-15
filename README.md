@@ -16,9 +16,9 @@ Perform revenue analysis across states and categories.
 - Data Modeling
 ## KPIs Tracked
 - Net Profit:40.52M
-- Total Orders:86,894+
+- Total Orders:99441
 - Active Customers:14K+
-- Average order value(AOV):466.34
+- Average order value(AOV):124.98
 ## Key Insights 
 - Total sales reached approximately 12.43M across 99K+ orders.
 - Credit card is the most preferred payment method among customers.
