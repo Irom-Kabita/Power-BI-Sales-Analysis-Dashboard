@@ -30,6 +30,6 @@ Perform revenue analysis across states and categories.
 - Certain product categories recorded high order volumes but lower average review scores, indicating areas for product and service improvement.
 - Product categories with the highest order volumes also experienced the highest number of delivery delays.
 ## Files
-- shopnest.capstone.pbix-Power BI dashboard file.
-- Dashboard screenshots: Category Analysis, Monthly Analysis, Sales Overview, and State Analysis.
+- Power BI dashboard file:shopnest capstone.pbix
+- Dashboard screenshots: Category_Analysis.png, Monthly_Analysis.png, Sales_Overview.png, and State_Analysis.png.
 
