@@ -22,11 +22,10 @@ Perform revenue analysis across states and categories.
 ## Key Insights 
 - Total sales reached approximately 12.43M across 99K+ orders.
 - Credit card is the most preferred payment method among customers.
-- Average order value(AOV) remained relatively stable throughout the analysis period.
 - States such as SP, RJ, and MG generated the highest sales, indicating strong regional performance.
 - Some states experienced lower sales along with most delay orders, highlighting potential operational challenges.
 - Customer distribution is uneven across regions, suggesting opportunities for market expansion.
-- Sales exhibited clear seasonal trends across different months and quarters.
+- Sales performance peaked around Q3, indicating a period of stronger sales performance during the analysis period.
 - Certain product categories recorded high order volumes but lower average review scores, indicating areas for product and service improvement.
 - Product categories with the highest order volumes also experienced the highest number of delivery delays.
 ## Files
