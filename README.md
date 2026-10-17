@@ -25,7 +25,7 @@ Perform revenue analysis across states and categories.
 - States such as SP, RJ, and MG generated the highest sales, indicating strong regional performance.
 - Some states experienced lower sales along with most delay orders, highlighting potential operational challenges.
 - Customer distribution is uneven across regions, suggesting opportunities for market expansion.
-- Sales performance peaked around Q3, indicating a period of stronger sales performance during the analysis period.
+- Quarterly sales peaked in Q2 at approximately 3.81M,followed by a decline in Q3 and Q4.
 - Certain product categories recorded high order volumes but lower average review scores, indicating areas for product and service improvement.
 - Product categories with the highest order volumes also experienced the highest number of delivery delays.
 ## Files
