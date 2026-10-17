@@ -15,10 +15,10 @@ Perform revenue analysis across states and categories.
 - DAX Measures 
 - Data Modeling
 ## KPIs Tracked
-- Total Sales:12.43M
+- Total Sales:$12.43M
 - Total Orders:99441
 - Active Customers:99441
-- Average order value(AOV):124.98
+- Average order value(AOV):$124.98
 ## Key Insights 
 - Total sales reached approximately 12.43M across 99K+ orders.
 - Credit card is the most preferred payment method among customers.
