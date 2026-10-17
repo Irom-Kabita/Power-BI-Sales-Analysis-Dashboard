@@ -8,7 +8,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, custom
 - Analyze customer payment methods.
 - Evaluate product ratings.
 - Identify seasonal sales patterns.
-Perform revenue analysis across states and categories.
+- Perform revenue analysis across states and categories.
 ## Tools used
 - Power BI
 - Power Query
@@ -17,7 +17,7 @@ Perform revenue analysis across states and categories.
 ## KPIs Tracked
 - Total Sales:$12.43M
 - Total Orders:99441
-- Active Customers:99441
+- Delayed delivery rate: 7.87%
 - Average order value(AOV):$124.98
 ## Key Insights 
 - Total sales reached approximately 12.43M across 99K+ orders.
